@@ -1,0 +1,1 @@
+web: gunicorn ekhlas_ltameer.wsgi:application --log-file -
